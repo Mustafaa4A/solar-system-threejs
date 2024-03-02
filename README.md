@@ -58,13 +58,9 @@ This project relies on the following dependencies:
 Textures used in this project were obtained from the following sources:
 
 <ul>
-<li><a href="http://planetpixelemporium.com/mercury.html" target="_blank">planetpixelemporium.com</a></li>
-<li>
-<a href="https://www.deviantart.com/niko22966/art/Rings-of-Saturn-419585311" target="_blank">deviantart.com</a>
-</li>
-<li>
-<a href="https://favpng.com/png_view/uranus-the-trooth-texture-mapping-planet-mykolaiv-png/0rw9hFBt" target="_blank">favpng.com</a>
-</li>
+  <li><a href="http://planetpixelemporium.com/mercury.html" target="_blank">planetpixelemporium.com</a></li>
+  <li><a href="https://www.deviantart.com/niko22966/art/Rings-of-Saturn-419585311" target="_blank">deviantart.com</a></li>
+  <li><a href="https://favpng.com/png_view/uranus-the-trooth-texture-mapping-planet-mykolaiv-png/0rw9hFBt" target="_blank">favpng.com</a></li>
 </ul>
 
 ## Credits

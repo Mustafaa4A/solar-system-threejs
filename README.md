@@ -53,6 +53,20 @@ This project relies on the following dependencies:
 - **Three.js**: A JavaScript 3D library that makes it easy to create 3D graphics in the browser.
 - **OrbitControls**: A part of the Three.js library that provides easy-to-use orbit controls for navigating around the scene.
 
+## Textures Sources
+
+Textures used in this project were obtained from the following sources:
+
+<ul>
+<li><a href="http://planetpixelemporium.com/mercury.html">planetpixelemporium.com</a></li>
+<li>
+<a href="https://www.deviantart.com/niko22966/art/Rings-of-Saturn-419585311">deviantart.com/</a>
+</li>
+<li>
+<a href="https://favpng.com/png_view/uranus-the-trooth-texture-mapping-planet-mykolaiv-png/0rw9hFBt">favpng.com</a>
+</li>
+</ul>
+
 ## Credits
 
 This project was created by Mustaf Abubakar.
